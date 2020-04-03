@@ -1,0 +1,24 @@
+{
+  "name": "toolbox",
+  "version": "1.0.0",
+  "description": "My CSS Tools and utilities to get up and ready.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsaydali/toolbox.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "author": "Marwan Alsaydali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsaydali/toolbox/issues"
+  },
+  "homepage": "https://github.com/alsaydali/toolbox#readme"
+}
