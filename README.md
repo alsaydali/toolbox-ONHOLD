@@ -7,3 +7,5 @@ My CSS tools and utilities
 There are a lot of utilites that I use them in many projects, so thought to add them in my own semi framework
 
 ## About this:
+
+During COVID-19 isolation time, I thought to write those utilities, from scratch, line by line with pure CSS only.
