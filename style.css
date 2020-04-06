@@ -12,6 +12,8 @@ html {
 }
 
 /*Utilities*/
+
+/*Margin*/
 .m-1 {
   margin: 1rem;
 }
@@ -27,7 +29,7 @@ html {
 .m-5 {
   margin: 5rem;
 }
-
+/*Margin-top*/
 .mt-0 {
   margin-top: 0;
 }
@@ -46,7 +48,7 @@ html {
 .mt-5 {
   margin-top: 5rem;
 }
-
+/*Margin-botton*/
 .mb-0 {
   margin-bottom: 0;
 }
@@ -65,7 +67,7 @@ html {
 .mb-5 {
   margin-bottom: 5rem;
 }
-
+/*Margin-left*/
 .ml-0 {
   margin-left: 0;
 }
@@ -84,7 +86,7 @@ html {
 .ml-5 {
   margin-left: 5rem;
 }
-
+/*Margin-right*/
 .mr-0 {
   margin-right: 0;
 }
@@ -103,7 +105,7 @@ html {
 .mr-5 {
   margin-right: 5rem;
 }
-
+/*Margin-virtical*/
 .my-1 {
   margin: 1rem 0;
 }
@@ -119,7 +121,7 @@ html {
 .my-5 {
   margin: 5rem 0;
 }
-
+/*Margin-horizon*/
 .mx-1 {
   margin: 0 1rem;
 }
@@ -135,7 +137,7 @@ html {
 .mx-5 {
   margin: 0 5rem;
 }
-
+/*Padding*/
 .p-1 {
   padding: 1rem;
 }
@@ -151,7 +153,7 @@ html {
 .p-5 {
   padding: 5rem;
 }
-
+/*Padding-top*/
 .pt-0 {
   padding-top: 0;
 }
@@ -170,7 +172,7 @@ html {
 .pt-5 {
   padding-top: 5rem;
 }
-
+/*Padding-bottom*/
 .pb-0 {
   padding-bottom: 0;
 }
@@ -189,7 +191,7 @@ html {
 .pb-5 {
   padding-bottom: 5rem;
 }
-
+/*Padding-left*/
 .pl-0 {
   padding-left: 0;
 }
@@ -208,7 +210,7 @@ html {
 .pl-5 {
   padding-left: 5rem;
 }
-
+/*Padding-right*/
 .pr-0 {
   padding-right: 0;
 }
@@ -227,7 +229,7 @@ html {
 .pr-5 {
   padding-right: 5rem;
 }
-
+/*Padding-virtical*/
 .py-1 {
   padding: 1rem 0;
 }
@@ -243,7 +245,7 @@ html {
 .py-5 {
   padding: 5rem 0;
 }
-
+/*Padding-horizon*/
 .px-1 {
   padding: 0 1rem;
 }
