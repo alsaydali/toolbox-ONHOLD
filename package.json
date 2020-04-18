@@ -4,7 +4,7 @@
   "description": "My CSS Tools and utilities to get up and ready.  ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch-me": "node-sass styles/Sass/main.scss styles/css/main.css -w"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alsaydali/toolbox/issues"
   },
-  "homepage": "https://github.com/alsaydali/toolbox#readme"
+  "homepage": "https://github.com/alsaydali/toolbox#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
 }
