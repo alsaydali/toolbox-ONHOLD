@@ -8,4 +8,4 @@ There are a lot of utilites that I use them in many projects, so thought to add 
 
 ## About this:
 
-During COVID-19 isolation time, I thought to write those utilities, from scratch, line by line with pure CSS only.
+During COVID-19 isolation time, I thought to write those utilities, Using Sass.
