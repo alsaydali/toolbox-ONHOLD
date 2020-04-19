@@ -23,3 +23,29 @@
     padding-right: 1 * $i rem;
   }
 }
+
+@for $i from 1 through 5 {
+  .m-#{$i} {
+    margin: 1 * $i rem;
+  }
+}
+@for $i from 1 through 5 {
+  .mt-#{$i} {
+    margin-top: 1 * $i rem;
+  }
+}
+@for $i from 1 through 5 {
+  .mb-#{$i} {
+    margin-bottom: 1 * $i rem;
+  }
+}
+@for $i from 1 through 5 {
+  .ml-#{$i} {
+    margin-left: 1 * $i rem;
+  }
+}
+@for $i from 1 through 5 {
+  .mr-#{$i} {
+    margin-right: 1 * $i rem;
+  }
+}
