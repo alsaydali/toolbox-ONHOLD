@@ -1,3 +1,11 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+//Padding
 @for $i from 1 through 5 {
   .p-#{$i} {
     padding: 1 * $i rem;
@@ -23,7 +31,7 @@
     padding-right: 1 * $i rem;
   }
 }
-
+//margin
 @for $i from 1 through 5 {
   .m-#{$i} {
     margin: 1 * $i rem;
